@@ -125,7 +125,7 @@ internal/
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/horcrux.git
+git clone https://github.com/amoghaya/horcrux-distributed-kv.git
 
 cd horcrux
 ```
